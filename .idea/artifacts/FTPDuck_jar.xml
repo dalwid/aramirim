@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FTPDuck:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FTPDuck_jar</output-path>
+    <root id="archive" name="FTPDuck.jar">
+      <element id="module-output" name="FTPDuck" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-net/commons-net/3.9.0/commons-net-3.9.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
